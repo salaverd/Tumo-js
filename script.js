@@ -8,13 +8,16 @@ createCanvas(800, 600); // Create a canvas
 
 // rotate(0)
 
-goTo(170, 300)
+goTo(200, 500)
 color('red')
+width(2)
+// strangeLine(150)
 strangeSquare(100)
-
+// strangeCircle(150)
+// strangeGalaxy(150)
 
 goTo(500, 400)
-// strangeGalaxy(100)
+// // strangeGalaxy(100)
 color('blue')
 
 drawStar(5, 50);
